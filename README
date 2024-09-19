@@ -16,4 +16,16 @@ According to a recent national survey, 63.7% of men and 48.4% of women in our co
 If current trends continue, it is expected that by 2035 the prevalence of severe obesity will affect 37% of the Spanish population. It is time to analyze this problem in depth.
 
 ### Relevant links
+Canva: [\[Link to dashboard\]](https://www.canva.com/design/DAGRNWQ17oE/ryNYXcLjVESEe64YhHruOw/view?utm_content=DAGRNWQ17oE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
+### 3. Data analysis
+Using the pandas library, we have executed queries in MySQL to do many insights in data.
+
+### 4. Data visualization
+We have used matplotlib, seaborn, plotly.graph to achieve a great visualización, even interactive in VSC Code. 
+
+## Tools & technology
+- **Programming Language**: SQL, Python
+- **Libraries**: pandas,pymysql, numpy, sqalchemy, matplotlib, seaborn, plotly.graph  as pd
+- **Visualization**: matplotlib, seaborn, plotly.graph
+ **Data Storage**: CSV,
