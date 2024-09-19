@@ -1,31 +1,39 @@
-# Study of the main factors that are related to obesity and its incidence on it
-### This is a data analysis project within the Ironhack Data Analysis Bootcamp, carried out by Jose Martin y Greta Galeana 
+Por supuesto, aquí tienes una versión mejorada del texto para tu README en GitHub:
+
+# Study of the Main Factors Related to Obesity and Its Incidence
+### This is a data analysis project within the Ironhack Data Analysis Bootcamp, carried out by Jose Martin and Greta Galeana
+
 <p align="center">
 
 </p>
 
 ## Team Members
 
-| Name             | LinkedIn Profile | Brief Description |
-|------------------|------------------|-------------------|
-| Jose Martin     | [\[Link\]] (www.linkedin.com/in/jose-martin-galeote)   | Data analyst & Jr Full-Stack Web Developer   |
-| Greta Galeana    | [\[Link\]](https://www.linkedin.com/in/gretagaleana?) | Marketing business & Data Analyst |
+| Name           | LinkedIn Profile                                   | Brief Description                         |
+|----------------|----------------------------------------------------|-------------------------------------------|
+| Jose Martin    | [Link](www.linkedin.com/in/jose-martin-galeote)    | Data Analyst & Jr. Full-Stack Web Developer |
+| Greta Galeana  | [Link](https://www.linkedin.com/in/gretagaleana?)  | Marketing Specialist & Data Analyst       |
 
-### A BIG SOCIAL Problem
-According to a recent national survey, 63.7% of men and 48.4% of women in our country are overweight, while obesity affects 19.3% of men and 18.0% Women's.
-If current trends continue, it is expected that by 2035 the prevalence of severe obesity will affect 37% of the Spanish population. It is time to analyze this problem in depth.
+## A BIG SOCIAL Problem
+According to a recent national survey, 63.7% of men and 48.4% of women in our country are overweight, while obesity affects 19.3% of men and 18.0% of women. If current trends continue, it is expected that by 2035, the prevalence of severe obesity will affect 37% of the Spanish population. It is time to analyze this problem in depth.
 
-### Relevant links
-Canva: [\[Link\]](https://www.canva.com/design/DAGRNWQ17oE/ryNYXcLjVESEe64YhHruOw/view?utm_content=DAGRNWQ17oE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+## Relevant Links
+- Canva: [Link](https://www.canva.com/design/DAGRNWQ17oE/ryNYXcLjVESEe64YhHruOw/view?utm_content=DAGRNWQ17oE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-### 3. Data analysis
-Using the pandas library, we have executed queries in MySQL to do many insights in data.
+## Data Analysis
+Using the pandas library, we have executed queries in MySQL to derive various insights from the data.
 
-### 4. Data visualization
-We have used matplotlib, seaborn, plotly.graph to achieve a great visualización, even interactive in VSC Code. 
+## Data Visualization
+We have used matplotlib, seaborn, and plotly.graph to create compelling visualizations, including interactive ones in VSC Code.
 
-## Tools & technology
-- **Programming Language**: SQL, Python
-- **Libraries**: pandas,pymysql, numpy, sqalchemy, matplotlib, seaborn, plotly.graph  as pd
-- **Visualization**: matplotlib, seaborn, plotly.graph
- **Data Storage**: CSV,
+## Tools & Technology
+- **Programming Languages:** SQL, Python
+- **Libraries:** pandas, pymysql, numpy, sqlalchemy, matplotlib, seaborn, plotly.graph
+- **Visualization:** matplotlib, seaborn, plotly.graph
+- **Data Storage:** CSV
+
+---
+
+Espero que esta versión mejorada sea útil para tu proyecto. Si tienes más preguntas o necesitas más ayuda, no dudes en consultarme. Aquí tienes el enlace de la guía para aprender a usarme mejor: [Ironbot Guide](https://ironhack.notion.site/Learn-to-code-not-No-AI-cheat-code-cde10ca3be62429f9fcc152c07197724).
+
+Si encuentras algún error durante nuestra conversación, por favor repórtalo utilizando este enlace: [Chatbot Bugs/Feedback Survey](https://ironhack.surveysparrow.com/s/Chatbot-BugsFeedback-Survey/tt-sPTygAne16aRJc8DvYyoQy).
